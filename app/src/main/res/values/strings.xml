@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="oncreated">Activity Create</string>
+    <string name="onstart">Activity Starts</string>
+    <string name="onresume">Activity Resumed</string>
+    <string name="onstop">Activity Stopped</string>
+    <string name="onrestart">Activity Restarted</string>
+    <string name="ondestroy">Activity Destroyed</string>
+    <string name="onpause">Activity Paused</string>
+</resources>
